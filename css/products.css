@@ -1,0 +1,1185 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li{
+	padding:0px;
+	margin:0px;
+}
+li{list-style:none;}
+img{display:block; max-width:100%;}
+div{
+	box-sizing:border-box;
+}
+.banner{
+	width:100%;
+	height:784px;
+	background:url(../images/7.jpg) no-repeat center;
+	position:relative;
+}
+.opacity{
+	width:720px;
+	height:465px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	margin:auto;
+	background:#000;
+	opacity:.5;
+}
+.opa{
+	width:720px;
+	height:465px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	margin:auto;
+}
+
+.aboutus1{
+	position:absolute;
+	top:32px;
+	right:43px;
+}
+.opa h1{
+	position:absolute;
+	top:190px;
+	left:40px;
+	color:#fff;
+	font-size:48px;
+}
+.opa  span{
+	color:#c3a774;
+}
+.in{
+	position:absolute;
+	top:305px;
+	left:300px;
+	color:#fff;
+}
+.in dt{
+	font-size:24px;
+	margin:0px 0px 15px 0px ;
+	letter-spacing:-2px ;
+}
+.in dd{
+	font-size:30px;
+	margin:10px 0px 0px 0px ;
+}
+.heng{
+	width:100px;
+	height:2px;
+	background:#c3a774;
+}
+.bots{
+	width:670px;
+	height:50px;
+	position:absolute;
+	bottom:0px;
+	left:50%;
+	background:#666;
+	}
+.bot{
+	float:left;
+	}
+.bot a{
+	font-size:16px;
+	color:#FFF;
+	line-height:50px;
+	padding:15px 30px 15px 30px;
+	}
+.k{
+	border-right:1px solid #999;
+	}
+.content{
+	width:100%;
+	height:1300px;
+	margin-top:20px;
+	padding-top:50px;
+}
+.top{
+	width:1250px;
+	height:80px;
+	margin:0 auto;
+
+}
+.box{
+	width:150px;
+	height:80px;
+	margin:0 auto;
+}
+.box h1{
+	font-size:40px;
+	text-align:center;
+	padding:0px 0px 5px 0px ;
+}
+.hen{
+	width:100px;
+	height:2px;
+	background:#c3a774;
+	margin:0 auto;
+}
+.box h5{
+	font-size:18px;
+	text-align:center;
+	margin:6px 0px 0px 0px ;
+	color:#666;
+	font-weight:normal;
+}
+.list{
+	width:1050px;
+	height:50px;
+	margin:0 auto;
+	color:#666;
+	margin-top:30px;
+}
+.list li{
+	width:115px;
+	height:45px;
+	float:left;
+	border:1px solid #c3a774;
+	border-radius:22px;
+	text-align:center;
+	line-height:45px;
+	margin:2px 15px ;
+	cursor:pointer;
+}
+.bg{
+	background:#c3a774;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content_1{
+	width:1250px;
+	height:1100px;
+	margin:0 auto;
+	margin-top:70px;
+
+}
+.content_1 figure{
+	float:left;
+	margin:10px 10px 10px 22px;
+	background:#fff;
+	position:relative;
+	box-shadow:4px 5px 8px 8px rgba(130,130,130,0) ;
+	transition:all 0.5s;
+}
+.sp1{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr1.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sp2{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr2.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sp3{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr3.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sp4{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr4.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sp5{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr5.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sp6{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr6.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.content_1 figcaption{
+	width:380px;
+	height:115px;
+	border-top:2px solid rgba(195,167,116,1.00);
+	background:#fafafa;
+    transition: all 0.5s;
+}
+figcaption h3{
+	width:300px;
+	height:24px;
+	text-indent:30px;
+	color:#333;
+	padding:20px 0px 0px 0px ;
+	}
+figcaption p{
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#777;
+	margin:5px 0 0 0;
+	}
+figcaption .prise{
+	display:block;
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#333;
+	margin:0px 0px 20px 0px ;
+}
+.shorts{
+	width:30px;
+	height:30px;
+	background:url(../images/cp1/1s11.png);
+	position:absolute;
+	bottom:30px;
+	right:30px;
+	border-left:1px solid #ccc;
+	transition:all 0.5s;
+}
+figure:hover .sp1{
+	background:url(../images/cp1/pr1.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sp2{
+	background:url(../images/cp1/pr2.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sp3{
+	background:url(../images/cp1/pr3.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sp4{
+	background:url(../images/cp1/pr4.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sp5{
+	background:url(../images/cp1/pr5.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sp6{
+	background:url(../images/cp1/pr6.jpg) no-repeat center; 
+	background-size:120%;
+}
+
+figure:hover .shorts{
+	background:url(../images/cp1/1s11.png) -30px 0;
+}
+figure:hover{box-shadow:4px 5px 10px 2px #ccc ;}
+figure:hover figcaption{
+	margin-top:-15px;
+	height:130px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content_2{
+
+	width:1250px;
+	height:1100px;
+	margin:0 auto;
+	margin-top:70px;
+
+}
+.content_2 figure{
+	float:left;
+	margin:10px 10px 10px 22px;
+	background:#fff;
+	position:relative;
+	box-shadow:4px 5px 8px 8px rgba(130,130,130,0) ;
+	transition:all 0.5s;
+}
+.ig1{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr7.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.ig2{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr8.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.ig3{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr9.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.ig4{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr10.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.ig5{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr11.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.ig6{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr12.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.content_2 figcaption{
+	width:380px;
+	height:115px;
+	border-top:2px solid rgba(195,167,116,1.00);
+	background:#fafafa;
+    transition: all 0.5s;
+}
+figcaption h3{
+	width:300px;
+	height:24px;
+	text-indent:30px;
+	color:#333;
+	padding:20px 0px 0px 0px ;
+	}
+figcaption p{
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#777;
+	margin:5px 0 0 0;
+	}
+figcaption .prise{
+	display:block;
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#333;
+	margin:0px 0px 20px 0px ;
+}
+.shorts{
+	width:30px;
+	height:30px;
+	background:url(../images/cp1/1s11.png);
+	position:absolute;
+	bottom:30px;
+	right:30px;
+	border-left:1px solid #ccc;
+	transition:all 0.5s;
+}
+figure:hover .ig1{
+	background:url(../images/cp1/pr7.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .ig2{
+	background:url(../images/cp1/pr8.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .ig3{
+	background:url(../images/cp1/pr9.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .ig4{
+	background:url(../images/cp1/pr10.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .ig5{
+	background:url(../images/cp1/pr11.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .ig6{
+	background:url(../images/cp1/pr12.jpg) no-repeat center; 
+	background-size:120%;
+}
+
+figure:hover .shorts{
+	background:url(../images/cp1/1s11.png) -30px 0;
+}
+figure:hover{box-shadow:4px 5px 10px 2px #ccc ;}
+figure:hover figcaption{
+	margin-top:-15px;
+	height:130px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content_3{
+	width:1250px;
+	height:1100px;
+	margin:0 auto;
+	margin-top:70px;
+
+}
+.content_3 figure{
+	float:left;
+	margin:10px 10px 10px 22px;
+	background:#fff;
+	position:relative;
+	box-shadow:4px 5px 8px 8px rgba(130,130,130,0) ;
+	transition:all 0.5s;
+}
+.sf1{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr13.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sf2{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr14.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sf3{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr15.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sf4{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr16.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sf5{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr17.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.sf6{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr18.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.content_3 figcaption{
+	width:380px;
+	height:115px;
+	border-top:2px solid rgba(195,167,116,1.00);
+	background:#fafafa;
+    transition: all 0.5s;
+}
+figcaption h3{
+	width:300px;
+	height:24px;
+	text-indent:30px;
+	color:#333;
+	padding:20px 0px 0px 0px ;
+	}
+figcaption p{
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#777;
+	margin:5px 0 0 0;
+	}
+figcaption .prise{
+	display:block;
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#333;
+	margin:0px 0px 20px 0px ;
+}
+.shorts{
+	width:30px;
+	height:30px;
+	background:url(../images/cp1/1s11.png);
+	position:absolute;
+	bottom:30px;
+	right:30px;
+	border-left:1px solid #ccc;
+	transition:all 0.5s;
+}
+figure:hover .sf1{
+	background:url(../images/cp1/pr13.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf2{
+	background:url(../images/cp1/pr14.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf3{
+	background:url(../images/cp1/pr15.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf4{
+	background:url(../images/cp1/pr16.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf5{
+	background:url(../images/cp1/pr17.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf6{
+	background:url(../images/cp1/pr18.jpg) no-repeat center; 
+	background-size:120%;
+}
+
+figure:hover .shorts{
+	background:url(../images/cp1/1s11.png) -30px 0;
+}
+figure:hover{box-shadow:4px 5px 10px 2px #ccc ;}
+figure:hover figcaption{
+	margin-top:-15px;
+	height:130px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.content_4{
+
+	width:1250px;
+	height:1100px;
+	margin:0 auto;
+	margin-top:70px;
+
+}
+.content_4 figure{
+	float:left;
+	margin:10px 10px 10px 22px;
+	background:#fff;
+	position:relative;
+	box-shadow:4px 5px 8px 8px rgba(130,130,130,0) ;
+	transition:all 0.5s;
+}
+.fz1{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr19.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.fz2{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr20.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.fz3{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr21.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.fz4{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr22.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.fz5{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr23.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.fz6{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr24.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.content_4 figcaption{
+	width:380px;
+	height:115px;
+	border-top:2px solid rgba(195,167,116,1.00);
+	background:#fafafa;
+    transition: all 0.5s;
+}
+figcaption h3{
+	width:300px;
+	height:24px;
+	text-indent:30px;
+	color:#333;
+	padding:20px 0px 0px 0px ;
+	}
+figcaption p{
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#777;
+	margin:5px 0 0 0;
+	}
+figcaption .prise{
+	display:block;
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#333;
+	margin:0px 0px 20px 0px ;
+}
+.shorts{
+	width:30px;
+	height:30px;
+	background:url(../images/cp1/1s11.png);
+	position:absolute;
+	bottom:30px;
+	right:30px;
+	border-left:1px solid #ccc;
+	transition:all 0.5s;
+}
+figure:hover .sf1{
+	background:url(../images/cp1/pr19.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf2{
+	background:url(../images/cp1/pr20.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf3{
+	background:url(../images/cp1/pr21.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf4{
+	background:url(../images/cp1/pr22.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf5{
+	background:url(../images/cp1/pr23.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf6{
+	background:url(../images/cp1/pr24.jpg) no-repeat center; 
+	background-size:120%;
+}
+
+figure:hover .shorts{
+	background:url(../images/cp1/1s11.png) -30px 0;
+}
+figure:hover{box-shadow:4px 5px 10px 2px #ccc ;}
+figure:hover figcaption{
+	margin-top:-15px;
+	height:130px;
+
+}
+
+
+
+
+
+
+
+.content_5{
+
+	width:1250px;
+	height:1100px;
+	margin:0 auto;
+	margin-top:70px;
+
+}
+.content_5 figure{
+	float:left;
+	margin:10px 10px 10px 22px;
+	background:#fff;
+	position:relative;
+	box-shadow:4px 5px 8px 8px rgba(130,130,130,0) ;
+	transition:all 0.5s;
+}
+.qs1{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr25.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.qs2{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr26.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.qs3{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr27.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.qs4{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr28.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.qs5{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr29.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.qs6{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr30.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.content_5 figcaption{
+	width:380px;
+	height:115px;
+	border-top:2px solid rgba(195,167,116,1.00);
+	background:#fafafa;
+    transition: all 0.5s;
+}
+figcaption h3{
+	width:300px;
+	height:24px;
+	text-indent:30px;
+	color:#333;
+	padding:20px 0px 0px 0px ;
+	}
+figcaption p{
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#777;
+	margin:5px 0 0 0;
+	}
+figcaption .prise{
+	display:block;
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#333;
+	margin:0px 0px 20px 0px ;
+}
+.shorts{
+	width:30px;
+	height:30px;
+	background:url(../images/cp1/1s11.png);
+	position:absolute;
+	bottom:30px;
+	right:30px;
+	border-left:1px solid #ccc;
+	transition:all 0.5s;
+}
+figure:hover .sf1{
+	background:url(../images/cp1/pr25.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf2{
+	background:url(../images/cp1/pr26.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf3{
+	background:url(../images/cp1/pr27.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf4{
+	background:url(../images/cp1/pr28.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf5{
+	background:url(../images/cp1/pr29.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf6{
+	background:url(../images/cp1/pr30.jpg) no-repeat center; 
+	background-size:120%;
+}
+
+figure:hover .shorts{
+	background:url(../images/cp1/1s11.png) -30px 0;
+}
+figure:hover{box-shadow:4px 5px 10px 2px #ccc ;}
+figure:hover figcaption{
+	margin-top:-15px;
+	height:130px;
+
+}
+
+
+
+
+
+.content_6{
+
+	width:1250px;
+	height:1100px;
+	margin:0 auto;
+	margin-top:70px;
+
+}
+.content_6 figure{
+	float:left;
+	margin:10px 10px 10px 22px;
+	background:#fff;
+	position:relative;
+	box-shadow:4px 5px 8px 8px rgba(130,130,130,0) ;
+	transition:all 0.5s;
+}
+.jz1{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr31.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.jz2{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr32.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.jz3{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr33.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.jz4{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr34.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.jz5{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr35.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.jz6{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr36.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.content_6 figcaption{
+	width:380px;
+	height:115px;
+	border-top:2px solid rgba(195,167,116,1.00);
+	background:#fafafa;
+    transition: all 0.5s;
+}
+figcaption h3{
+	width:300px;
+	height:24px;
+	text-indent:30px;
+	color:#333;
+	padding:20px 0px 0px 0px ;
+	}
+figcaption p{
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#777;
+	margin:5px 0 0 0;
+	}
+figcaption .prise{
+	display:block;
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#333;
+	margin:0px 0px 20px 0px ;
+}
+.shorts{
+	width:30px;
+	height:30px;
+	background:url(../images/cp1/1s11.png);
+	position:absolute;
+	bottom:30px;
+	right:30px;
+	border-left:1px solid #ccc;
+	transition:all 0.5s;
+}
+figure:hover .sf1{
+	background:url(../images/cp1/pr31.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf2{
+	background:url(../images/cp1/pr32.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf3{
+	background:url(../images/cp1/pr33.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf4{
+	background:url(../images/cp1/pr34.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf5{
+	background:url(../images/cp1/pr35.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf6{
+	background:url(../images/cp1/pr36.jpg) no-repeat center; 
+	background-size:120%;
+}
+
+figure:hover .shorts{
+	background:url(../images/cp1/1s11.png) -30px 0;
+}
+figure:hover{box-shadow:4px 5px 10px 2px #ccc ;}
+figure:hover figcaption{
+	margin-top:-15px;
+	height:130px;
+
+}
+
+
+
+
+
+
+
+
+.content_7{
+
+	width:1250px;
+	height:1100px;
+	margin:0 auto;
+	margin-top:70px;
+
+}
+.content_7 figure{
+	float:left;
+	margin:10px 10px 10px 22px;
+	background:#fff;
+	position:relative;
+	box-shadow:4px 5px 8px 8px rgba(130,130,130,0) ;
+	transition:all 0.5s;
+}
+.dj1{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr37.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.dj2{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr38.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.dj3{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr39.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.dj4{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr40.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.dj5{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr41.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.dj6{
+	width:380px;
+	height:320px;
+	background:url(../images/cp1/pr42.jpg) no-repeat center ;
+	transition:all 0.5s;
+	background-size:110%;
+	overflow:hidden;
+}
+.content_7 figcaption{
+	width:380px;
+	height:115px;
+	border-top:2px solid rgba(195,167,116,1.00);
+	background:#fafafa;
+    transition: all 0.5s;
+}
+figcaption h3{
+	width:300px;
+	height:24px;
+	text-indent:30px;
+	color:#333;
+	padding:20px 0px 0px 0px ;
+	}
+figcaption p{
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#777;
+	margin:5px 0 0 0;
+	}
+figcaption .prise{
+	display:block;
+	width:300px;
+	height:20px;
+	text-indent:30px;
+	color:#333;
+	margin:0px 0px 20px 0px ;
+}
+.shorts{
+	width:30px;
+	height:30px;
+	background:url(../images/cp1/1s11.png);
+	position:absolute;
+	bottom:30px;
+	right:30px;
+	border-left:1px solid #ccc;
+	transition:all 0.5s;
+}
+figure:hover .sf1{
+	background:url(../images/cp1/pr37.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf2{
+	background:url(../images/cp1/pr38.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf3{
+	background:url(../images/cp1/pr39.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf4{
+	background:url(../images/cp1/pr40.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf5{
+	background:url(../images/cp1/pr41.jpg) no-repeat center; 
+	background-size:120%;
+}
+figure:hover .sf6{
+	background:url(../images/cp1/pr42.jpg) no-repeat center; 
+	background-size:120%;
+}
+
+figure:hover .shorts{
+	background:url(../images/cp1/1s11.png) -30px 0;
+}
+figure:hover{box-shadow:4px 5px 10px 2px #ccc ;}
+figure:hover figcaption{
+	margin-top:-15px;
+	height:130px;
+
+}

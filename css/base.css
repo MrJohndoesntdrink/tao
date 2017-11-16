@@ -1,0 +1,156 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;
+	}
+div{bo-sizing:border-box;}
+h1,h3,h4,h6{    
+	font-weight: normal;
+}	  
+
+a{
+	text-decoration:none;
+}
+li{list-style:none;}
+
+
+.menu{
+	width:100%;
+	background:#f0f2f5;
+
+	}
+.logo{
+	width:1200px;
+	height:80px;
+	margin:0 auto;
+	padding-top:27px;
+
+	}
+.logo_i{
+	display:block;
+	width:96px;
+	height:33px;
+	margin:0 auto;
+	}
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.foot{
+	width:100%;
+	height:285px;
+	border-top:2px solid #c3a774;
+	background:#edeff2;
+}
+.footr{
+	width:1250px;
+	height:220px;
+	margin:0 auto;
+	margin-top:65px;
+}
+.ml{
+	width:750px;
+	height:220px;
+	margin:0 auto;
+}
+.line{
+	width:80px;
+	height:220px;
+	float:left;
+}
+.d{
+	margin-right:60px;
+}
+.xinshou li{
+	margin:10px auto;
+	font-size:13px;
+}
+.xinshou li:first-child{
+	margin-bottom:20px;
+	color: #2b2b2b;
+    font-weight: 700;
+}
+.help li{
+	margin:10px auto;
+	font-size:13px;
+}
+.help li:first-child{
+	margin-bottom:20px;
+	color: #2b2b2b;
+    font-weight: 700;
+}
+.kehu li{
+	margin:10px auto;
+	font-size:13px;
+}
+.kehu li:first-child{
+	margin-bottom:20px;
+	color: #2b2b2b;
+    font-weight: 700;
+}
+.guanyu li{
+	margin:10px auto;
+	font-size:13px;
+}
+.guanyu li:first-child{
+	margin-bottom:20px;
+	color: #2b2b2b;
+    font-weight: 700;
+}
+..xinshou li:first-child{
+	margin-bottom:20px;
+	color: #2b2b2b;
+    font-weight: 700;
+}
+.last{
+	width:100px;
+	height:200px;
+	margin-left:50px;
+	float:left;
+
+}
+..xinshou li:first-child{
+	margin-bottom:20px;
+	color: #2b2b2b;
+    font-weight: 700;
+}
+.tao{
+	width:100px;
+	height:50px;
+	background:url(../images/logo.png) no-repeat ;
+}
+.tel{
+	width:100px;
+	height:20px;
+	float:left;
+}
+.tel1{
+	width:20px;
+	height:20px;
+	background:url(../images/tel.png) no-repeat;
+	float:left;
+}
+.tel2{
+	width:80px;
+	height:20px;
+	float:left;
+	font-size:12px;
+}
+	
+	
+	
